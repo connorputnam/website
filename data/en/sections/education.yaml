@@ -16,44 +16,40 @@ degrees:
   institution:
     name: Oregon State University
     url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades:
+    courses:
+    - name: Data Vizualization
+    - name: Probability, Computation, and Simulation
+    - name: Data Science Tools & Programming
+    - name: Linear Models
+    - name: Generalized Linear Models (GLM)
+    - name: Statistical Theory
+    - name: Methods of Big Data
+    - name: Time Series
 - name: B.A. Economics
   icon: fa-graduation-cap
   timeframe: 2013-2016
   institution:
     name: University of California, Davis
     url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades:
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    - name: Calculus
+    - name: Analysis of Economic Data
+    - name: Intermidate Mirco & Macro Economics
+    - name: Financial Economics
 - name: B.A. History
   icon: fa-university
   timeframe: 2013 - 2016
   institution:
     name: University of California, Davis
     url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+  takenCourses: #(Optional)
+    showGrades:
+    courses:
+    - name: Various Courses in European and MiddleEastern History
 
