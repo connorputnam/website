@@ -22,19 +22,24 @@ skills:
 - name: R Shiny
   logo: "/images/sections/skills/shiny.png"
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
- 
-- name: LaTeX
-  logo: "/images/sections/skills/latex.png"
-  
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: SAS
+  logo: "/images/sections/skills/SAS.png"
+  summary: "Knowledge of how to run a variety of statistical analyses, including visualizations and model parameters"
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: ""
+  summary: "Capible of writing and running moderately complex scripts. Knowledge mostly focused in the pandas, numpy and matplotlib packages.'"
+
+- name: LaTeX
+  logo: "/images/sections/skills/latex.png"
+  summary: "Ability to write well formated documents and reports containing mathamtical notation"
+  
+- name: Google Cloud Platform
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Mostly familiar with BigQuery, Dataprep and Compute Engine"
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development. Mostly, use Github."
+

@@ -15,7 +15,7 @@ experiences:
     url: "https://stat.oregonstate.edu/"
     location: Corvallis, Oregon
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: A large Public University located in the Pacfic Northwest. 
   positions:
   - designation: Graduate Teaching Assistant
     start: Jan 2020
@@ -44,7 +44,7 @@ experiences:
     name: Scotts Valley Unified Schools
     url: "https://scottsvalley-ca.schoolloop.com/"
     location: Scotts Valley, California
-    overview: Public school system
+    overview: Public school system loctaed in the Bay Area.
   positions:
   - designation: Math Educator
     start: August 2017
