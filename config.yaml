@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://hardcore-keller-594de1.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
 title: "Connor"
@@ -37,7 +37,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/logo.png
+  background: /images/site/mountain_background.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
