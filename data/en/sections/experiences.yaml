@@ -23,22 +23,23 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Conducted labs for serval course, covering undergraduate topics in statistical methods and R programming
+    - Conducted labs for serval courses, covering undergraduate topics in statistical methods and R programming
     - Held office hours and maintained a gradebook
 
 - company:
     name: EVmatch
     url: "https://www.evmatch.com/"
-    location: Santa Barbara, California
+    location: Remote
     overview: EVmath is a peer to peer electric car charging platform.
   positions:
   - designation: Data and Product Analyst Intern
     start: September 2020
     end: Janurary 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+      - Identified and analyzed data sets to inform product development.
+      - Developed data-driven customer engagement tools.
+      - Performed statistical analyses to identify customer characteristics.
+      - Created several static as well as dynamic visualizations.
 
 - company:
     name: Scotts Valley Unified Schools
@@ -64,6 +65,6 @@ experiences:
     start: October 2016
     end: Jun 2017
     responsibilities:
-    - Customer service
-    - Managed and 
-    - Maintained a gradbook
+    - Customer service.
+    - Managed several hundred thousands dollars as a time.
+    - Operated and maintained an ATM.

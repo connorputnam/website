@@ -13,15 +13,15 @@ section:
 skills:
 - name: R
   logo: "/images/sections/skills/Ricon.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of conducting all things R, inlcuding statistical analysis, data wrangling and visualizations. Fluent in the Tidyverse package."
 
 - name: SQL
   logo: "/images/sections/skills/MySQL.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Ability to perform data manulation as well as maintaining a solid knowledge of the logical framework behind relational databases."
 
 - name: R Shiny
   logo: "/images/sections/skills/shiny.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experience with both devopling and deploying Shiny Apps and Documents"
 
 - name: SAS
   logo: "/images/sections/skills/SAS.png"
@@ -29,7 +29,7 @@ skills:
 
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Capible of writing and running moderately complex scripts. Knowledge mostly focused in the pandas, numpy and matplotlib packages.'"
+  summary: "Capable of writing and running moderately complex scripts. Knowledge mostly focused in the pandas, numpy and matplotlib packages."
 
 - name: LaTeX
   logo: "/images/sections/skills/latex.png"
@@ -37,9 +37,9 @@ skills:
   
 - name: Google Cloud Platform
   logo: "/images/sections/skills/cloud.png"
-  summary: "Mostly familiar with BigQuery, Dataprep and Compute Engine"
+  summary: "Mostly familiar with BigQuery, Dataprep, Spark and Compute Engine"
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github."
+  summary: "Experienced with git-based development. Specifically, Github."
 

@@ -20,14 +20,17 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades:
     courses:
-    - name: Data Vizualization
+    - name: Data Visualization
     - name: Probability, Computation, and Simulation
     - name: Data Science Tools & Programming
     - name: Linear Models
     - name: Generalized Linear Models (GLM)
+    - name: Experimental Design
     - name: Statistical Theory
     - name: Methods of Big Data
     - name: Time Series
+    - name: Sampling Methods
+    - name: Statistical Consulting
 - name: B.A. Economics
   icon: fa-graduation-cap
   timeframe: 2013-2016
