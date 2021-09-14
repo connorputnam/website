@@ -23,8 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - R programming
-    - 
+    - Manage and analyze large data sets.
+    - Perform inital EDA and data cleaning.
+    - Build energy models with a focus in home energy and renewables.
+    - Organize work and deadlines with clients as well as coworkers.
 
 - company:
     name: Oregon State University
