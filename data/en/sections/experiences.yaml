@@ -13,7 +13,7 @@ experiences:
 - company:
     name: ADM Associates
     url: "https://www.admenergy.com/"
-    location: Portland, Oregon
+    location: Remote
     # company overview
     overview: An energy research and evaluation company. 
   positions:
@@ -48,7 +48,7 @@ experiences:
     name: EVmatch
     url: "https://www.evmatch.com/"
     location: Remote
-    overview: EVmath is a peer to peer electric car charging platform.
+    overview: EVmatch is a peer to peer electric car charging platform.
   positions:
   - designation: Data and Product Analyst Intern
     start: September 2020

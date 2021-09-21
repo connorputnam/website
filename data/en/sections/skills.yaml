@@ -13,15 +13,15 @@ section:
 skills:
 - name: R
   logo: "/images/sections/skills/Ricon.png"
-  summary: "Capable of conducting all things R, inlcuding statistical analysis, data wrangling and visualizations. Fluent in the Tidyverse package."
+  summary: "Capable of conducting all things R, including statistical analysis, data wrangling and visualizations. Fluent in the Tidyverse package."
 
 - name: SQL
   logo: "/images/sections/skills/MySQL.png"
-  summary: "Ability to perform data manulation as well as maintaining a solid knowledge of the logical framework behind relational databases."
+  summary: "Ability to perform data manipulation as well as maintaining a solid knowledge of the logical framework behind relational databases."
 
 - name: R Shiny
   logo: "/images/sections/skills/shiny.png"
-  summary: "Experience with both devopling and deploying Shiny Apps and Documents"
+  summary: "Experience with both devopling and deploying Shiny Apps and Documents."
 
 - name: SAS
   logo: "/images/sections/skills/SAS.png"
@@ -33,11 +33,11 @@ skills:
 
 - name: LaTeX
   logo: "/images/sections/skills/latex.png"
-  summary: "Ability to write well formated documents and reports containing mathamtical notation"
+  summary: "Ability to write well formated documents and reports containing mathamtical notation."
   
 - name: Google Cloud Platform
   logo: "/images/sections/skills/cloud.png"
-  summary: "Mostly familiar with BigQuery, Dataprep, Spark and Compute Engine"
+  summary: "Mostly familiar with BigQuery, Dataprep, Spark and Compute Engine."
 
 - name: Git
   logo: "/images/sections/skills/git.png"
