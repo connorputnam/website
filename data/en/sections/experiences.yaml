@@ -11,6 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: IXIS Digital
+    url: "https://ixisdigital.com/"
+    location: Remote
+    # company overview
+    overview: Web analystics consulting. 
+  positions:
+  - designation: Data Analyst II
+    start: Februray 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Manage and analyze data from internet tagging.
+    - Build and automate reports.
+    - Pull in data through APIs.
+    - Perform customer requested analyses in Adobe Analytics as well as R.
+    
+- company:
     name: ADM Associates
     url: "https://www.admenergy.com/"
     location: Remote
