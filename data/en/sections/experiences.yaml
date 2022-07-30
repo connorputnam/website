@@ -36,7 +36,8 @@ experiences:
     overview: An energy research and evaluation company. 
   positions:
   - designation: Data Analyst II
-    start: May 2021
+    start: March 2021
+    end: Februray 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -54,7 +55,8 @@ experiences:
     overview: A large Public University located in the Pacfic Northwest. 
   positions:
   - designation: Graduate Teaching Assistant
-    start: Jan 2020
+    start: September 2019
+    end: March 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
