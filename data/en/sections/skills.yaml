@@ -41,5 +41,8 @@ skills:
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Specifically, Github."
+  summary: "Experienced with git-based development. Specifically, Github and GitLab."
 
+- name: Adobe Analytics
+  logo: "/images/sections/skills/AdobeAnalytics.png"
+  summary: "Experienced with Adobe Analytics workspace development and use as an API."
