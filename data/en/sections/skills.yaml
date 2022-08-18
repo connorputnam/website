@@ -43,6 +43,10 @@ skills:
   logo: "/images/sections/skills/git.png"
   summary: "Experienced with git-based development. Specifically, Github and GitLab."
 
+- name: AWS
+  logo: "/images/sections/skills/AWS.png"
+  summary: "Mostly familiar with Athena. Both through API pulls and local SQL queries"
+
 - name: Adobe Analytics
   logo: "/images/sections/skills/AdobeAnalytics.png"
   summary: "Experienced with Adobe Analytics workspace development and use as an API."
