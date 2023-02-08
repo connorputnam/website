@@ -23,9 +23,9 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Teach students statistics fundemtals
-    - Commutate with students to make sure indiviual needs are being met
-    - Held office hours and maintained a gradebook
+    - Teach students statistics fundamentals
+    - Commutate with students to make sure individual needs are being met
+    - Hold office hours and maintain a gradebook
     - Answer student questions and address student concerns
     
 - company:
@@ -41,10 +41,10 @@ experiences:
     end: September 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Manage and analyze data from internet tagging.
-    - Build and automate reports.
-    - Pull in data through APIs.
-    - Perform customer requested analyses in Adobe Analytics as well as R.
+    - Manage and analyzed data from internet tagging.
+    - Built and automated reports.
+    - Pulled in data through APIs using SQL.
+    - Performed customer requested analyses in Adobe Analytics as well as R.
     
 - company:
     name: ADM Associates
@@ -60,10 +60,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Manage and analyze large data sets.
-    - Perform inital EDA and data cleaning.
-    - Build energy models with a focus in home energy and renewables.
-    - Organize work and deadlines with coworkers.
+    - Managed and analyzed large data sets.
+    - Performed inital EDA and data cleaning.
+    - Built energy models with a focus in home energy and renewables.
+    - Organized work and deadlines with coworkers.
 
 - company:
     name: Oregon State University
@@ -88,7 +88,7 @@ experiences:
     location: Remote
     overview: EVmatch is a peer to peer electric car charging platform.
   positions:
-  - designation: Data and Product Analyst Intern
+  - designation: Data Analyst Intern
     start: September 2020
     end: Janurary 2021
     responsibilities:
@@ -98,7 +98,7 @@ experiences:
       - Created several static as well as dynamic visualizations.
 
 - company:
-    name: Scotts Valley Unified Schools
+    name: Santa Cruz City Schools
     url: "https://scottsvalley-ca.schoolloop.com/"
     location: Scotts Valley, California
     overview: Public school system loctaed in the Bay Area.
@@ -107,9 +107,9 @@ experiences:
     start: August 2017
     end: Jun 2019
     responsibilities:
-    - Maintian a productive classroom work eviroment
-    - Taught high school level Alegbra and Geometry
-    - Maintained a gradbook
+    - Maintained a productive classroom work environment
+    - Taught high school level Algebra and Geometry
+    - Maintained a gradebook
 
 - company:
     name: Chase
