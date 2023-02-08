@@ -21,13 +21,13 @@ section:
 
 # your projects
 projects:
-- name: 2017 French Presidential Election Shiny Document
+- name: Election Analysis and Visualization
   logo: /images/sections/projects/french_flag.png
   role: Creater
   timeline: "April 2020 - June 2020"
   repo: https://github.com/connorputnam/2017-French-Election
   url: "https://putnamco.shinyapps.io/2017-French-Election/"
-  summary: Visualizations from the 2017 French Presidential Election
+  summary: This project breaks down the 2017 French Presidential election by economics and voting results. The project has been deployed as a shiny app. The visualizations were done utilizing the ggplot2 package and the data was wrangled using the R programming language
   tags: ["data visualization", "ggplot2", "election"]
 
 - name: Using Poisson and Negative Binomial Regression to Model the Number of Bombs Dropped in WW2
@@ -38,13 +38,13 @@ projects:
   summary: Data was sourced from Kaggle.com and it contains thousands of observations of single bombing missions between May 15, 1940 - May 2, 1945. The purpose of the project is explore count regression models that accurate explain the data.
   tags: ["poisson regression","negative binomial regression", "R", "GLM"]
   
-- name: EV Car Charging Reporting 
+- name: Capturing Insights from Charging Data 
   logo: /images/sections/projects/evcar.png
   role: Creater
-  timeline: "October 2020 - January 2021"
+  timeline: "September 2020 - January 2021"
   #repo: https://github.com/connorputnam/connorputnam-finalproject-Election_Simulation
   #url: ""
-  summary: Built a parameterized report that numerically and visually displayed data to a particular EV car charger or group of car chargers. Data was pulled from an internal database and was then used to build out a report that could be used to inform a non-technical audience and/or investors. The report was highly dynamic in that the user can request to see an analysis for one charger, all charger in a particular geographical location, chargers during specific times, and much more.
+  summary: This project involved writing API calls from EV chargers and using SQL commands to access company databases in order to acquire the desired customer data. Once this data was acquired various visualizations and calculations using R were made and presented in a dynamic report that can be used to inform decision making company wide.
   tags: ["bootstrapping", "election","R"]
   
 - name: Geogria Senate Runoff Simulation
@@ -69,8 +69,8 @@ projects:
   logo: /images/sections/projects/demand_response.png
   role: Creater
   timeline: "April 2021 - february 2020"
-  #repo: https://github.com/connorputnam/2017-French-Election
-  #url: "https://putnamco.shinyapps.io/2017-French-Election/"
+  repo: https://github.com/connorputnam/2017-French-Election
+  url: "https://putnamco.shinyapps.io/2017-French-Election/"
   summary: Conducted Demand Response analyses for several power utility companies across the country. Focusing mostly on home smart thermostat programs. Goal being to optimize energy usage during peak times to maximize financial saving and energy grid management.
   tags: ["models", "demand", "response"]  
   
