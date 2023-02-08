@@ -21,15 +21,32 @@ section:
 
 # your projects
 projects:
-- name: Modeling the 2019 UK Parlimentry Election using Random Forests
-  logo: /images/sections/projects/UKicon.png
+- name: 2017 French Presidential Election Shiny Document
+  logo: /images/sections/projects/french_flag.png
   role: Creater
-  timeline: "March 2021 - June 2021"
-  repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: The goal of this project is to accurately model the results the United Kingdom Parlimentry General Election that took place on Dember 12th, 2019. 
-  tags: ["tidymodels", "R", "random forest"]
+  timeline: "April 2020 - June 2020"
+  repo: https://github.com/connorputnam/2017-French-Election
+  url: "https://putnamco.shinyapps.io/2017-French-Election/"
+  summary: Visualizations from the 2017 French Presidential Election
+  tags: ["data visualization", "ggplot2", "election"]
 
+- name: Using Poisson and Negative Binomial Regression to Model the Number of Bombs Dropped in WW2
+  logo: /images/sections/projects/ww2.png
+  role: Creator
+  timeline: "September 2020 - December 2020"
+  url: https://github.com/connorputnam/Bomb-Count-using-Poisson-Regression
+  summary: Data was sourced from Kaggle.com and it contains thousands of observations of single bombing missions between May 15, 1940 - May 2, 1945. The purpose of the project is explore count regression models that accurate explain the data.
+  tags: ["poisson regression","negative binomial regression", "R", "GLM"]
+  
+- name: EV Car Charging Reporting 
+  logo: /images/sections/projects/evcar.png
+  role: Creater
+  timeline: "October 2020 - January 2021"
+  #repo: https://github.com/connorputnam/connorputnam-finalproject-Election_Simulation
+  #url: ""
+  summary: Built a parameterized report that numerically and visually displayed data to a particular EV car charger or group of car chargers. Data was pulled from an internal database and was then used to build out a report that could be used to inform a non-technical audience and/or investors. The report was highly dynamic in that the user can request to see an analysis for one charger, all charger in a particular geographical location, chargers during specific times, and much more.
+  tags: ["bootstrapping", "election","R"]
+  
 - name: Geogria Senate Runoff Simulation
   logo: /images/sections/projects/georgia.png
   role: Creater
@@ -39,22 +56,32 @@ projects:
   summary: The goal of this project is to simulate and obtain probabilities for the January 5, 2021 Georgia Senate Runoff Election between incumbent Republican Senator David Purdue and Democratic challenger Jon Ossoff. 
   tags: ["bootstrapping", "election","R"]
 
-- name: Using Poisson and Negative Binomial Regression to Model the Number of Bombs Dropped in WW2
-  logo: /images/sections/projects/ww2.png
-  role: Creator
-  timeline: "September 2020 - December 2020"
-  url: https://github.com/connorputnam/Bomb-Count-using-Poisson-Regression
-  summary: Data was sourced from Kaggle.com and it contains thousands of observations of single bombing missions between May 15, 1940 - May 2, 1945. The purpose of the project is explore count regression models that accurate explain the data.
-  tags: ["poisson regression","negative binomial regression", "R", "GLM"]
-
-- name: 2017 French Presidential Election Shiny Document
-  logo: /images/sections/projects/french_flag.png
+- name: Modeling the 2019 UK Parlimentry Election using Random Forests
+  logo: /images/sections/projects/UKicon.png
   role: Creater
-  timeline: "April 2020 - June 2020"
-  repo: https://github.com/connorputnam/2017-French-Election
-  url: "https://putnamco.shinyapps.io/2017-French-Election/"
-  summary: Visualizations from the 2017 French Presidential Election
-  tags: ["data visualization", "ggplot2", "election"]
+  timeline: "March 2021 - June 2021"
+  repo: https://github.com/connorputnam/UK-2019-Election-Model # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The goal of this project is to accurately model the results the United Kingdom Parlimentry General Election that took place on Dember 12th, 2019. 
+  tags: ["tidymodels", "R", "random forest"]
+
+- name: Demand Repsonse Modeling using Regressions and Propensity Score Matching
+  logo: /images/sections/projects/demand_response.png
+  role: Creater
+  timeline: "April 2021 - february 2020"
+  #repo: https://github.com/connorputnam/2017-French-Election
+  #url: "https://putnamco.shinyapps.io/2017-French-Election/"
+  summary: Conducted Demand Response analyses for several power utility companies across the country. Focusing mostly on home smart thermostat programs. Goal being to optimize energy usage during peak times to maximize financial saving and energy grid management.
+  tags: ["models", "demand", "response"]  
+  
+- name: Automating Client Reporting
+  logo: /images/sections/projects/car.png
+  role: Creater
+  timeline: "April 2022 - August 2022"
+  #repo: https://github.com/connorputnam/2017-French-Election
+  #url: "https://putnamco.shinyapps.io/2017-French-Election/"
+  summary: Took a outdated manually made reporting system and automated it. Did so by moving data to cloud based storage systems such as AWS and Google Sheets. Write code that was robust to future needs and created a new monthly powerpoint in minutes.Then every month made a presentation regarding the finding in the report to a major international car company.
+  tags: ["officeR", "report", "automation"]
 
 #- name: Toha
 #  logo: /images/sections/projects/toha.png
