@@ -14,7 +14,7 @@ degrees:
   icon: fa-microscope
   timeframe: 2019-2021
   institution:
-    name: Oregon State University Lets go Beavs
+    name: Oregon State University Lets go Beavsssss
     url: "#"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
